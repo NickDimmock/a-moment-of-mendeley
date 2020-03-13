@@ -6,4 +6,4 @@ This guide has been produced for research students and staff at the University o
 
 ?> **Quick start:** see the [getting started](/getting-started) guide to get yourself up and running with Mendeley.
 
-This guide is a Creative Commons resource - you are welcome to copy, share and remix it in accordance with the [CC-BY licence](http://creativecommons.org/licenses/by/4.0/).
+*A Moment of Mendeley is a Creative Commons resource - you are welcome to copy, share and remix it in accordance with the [CC-BY licence](http://creativecommons.org/licenses/by/4.0/).*

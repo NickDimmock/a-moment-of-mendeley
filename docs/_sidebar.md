@@ -1,6 +1,7 @@
+- **Intro**
 - [What is Mendeley?](what-is-mendeley)
 - [Getting started](getting-started)
-- How to...
+- **How to...**
   - [Add items to Mendeley](adding)
   - [Check details](checking)
   - [Cite in Word](citing)
